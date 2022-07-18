@@ -38,7 +38,7 @@ const PracticalExp = () => {
           className="form-control mb-3  "
           type="text"
           name="Company Name"
-          placeholder="Enter Your Company Name"
+          placeholder="Enter Company Name"
           value={companyName}
           onChange={(event) => setCompanyName(event.target.value)}
         />

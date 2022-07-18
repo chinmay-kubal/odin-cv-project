@@ -62,6 +62,7 @@ const Education = () => {
       <label>
         Date of study:
         <input
+          className="form-control mb-3  "
           type="date"
           name="Date of study"
           placeholder="Enter the Title of study"
